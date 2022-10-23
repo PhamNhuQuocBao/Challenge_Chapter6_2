@@ -1,0 +1,7 @@
+namespace Challenge
+{
+    class Showing
+    {
+        
+    }
+}
